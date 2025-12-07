@@ -253,6 +253,16 @@ Returns:
 - Carbon footprint tracking  
 
 ---
+ 
+## **Contributors**
+
+We thank the amazing contributors who helped build **RegeneraX**:
+
+- **Suraj Bhadauria**
+- **Jonah**
+- **Utkarsh Mishra**
+
+---
 
 ## **Contributing**
 Contributions welcome for:
