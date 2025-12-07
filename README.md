@@ -256,7 +256,7 @@ Returns:
  
 ## **Contributors**
 
-We thank the amazing contributors who helped build **RegeneraX**:
+I thank the amazing contributors who helped build **RegeneraX**:
 
 - **Suraj Bhadauria**
 - **Jonah**
